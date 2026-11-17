@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔓 John the Ripper: Cracking a Locked PDF, Plus a Lesson in Checking Your Files
+# 🔓 John the Ripper: Cracking a Locked PDF, Plus a Lesson in Checking Files
 
 **Week 3, Project Module 1 — cracking `My Locked PDF1.pdf` with `pdf2john` and `john` in Kali Linux, and how a mixed-up file name nearly gave me the wrong answer**
 </div>
